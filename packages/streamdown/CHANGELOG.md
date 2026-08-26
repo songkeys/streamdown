@@ -1,5 +1,11 @@
 # streamdown
 
+## 2.6.1
+
+### Patch Changes
+
+- 18dcb20: Add a top-level `portal` prop for configuring the container used by Mermaid fullscreen, table fullscreen, and the built-in link safety modal.
+
 ## 2.6.0
 
 ### Minor Changes
